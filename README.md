@@ -1,7 +1,8 @@
-# Object-Oriented Programming Application
+# Object-Oriented Programming Application 
 
 This is a desktop application developed as part of the **C2_OBJECT ORIENTED PROGRAM** course at LaSalle College, Summer 2023. The application demonstrates core concepts of Object-Oriented Programming (OOP) using C# and Windows Forms.
---
+
+---
 ## Features
 
 ### 1. Lotto Number Generators
@@ -21,7 +22,7 @@ This is a desktop application developed as part of the **C2_OBJECT ORIENTED PROG
 ### 5. User-Friendly Interface
 - Tabbed navigation for quick access to each feature.
 - "Exit" button to close the application.
--- 
+---
 ## Technologies Used
 - **Programming Language**: C#
 - **Framework**: .NET Framework for Windows Forms (WinForms)
@@ -34,12 +35,12 @@ This is a desktop application developed as part of the **C2_OBJECT ORIENTED PROG
   - Windows Forms UI components
 
 ## Getting Started
-
+---
 ### Prerequisites
 - **Windows OS**: Required to run the application.
 - **.NET Framework**: Ensure that the .NET Framework is installed on your system.
 
---
+---
 ### Main UI of the Application
 
 ![Screenshot 2025-01-28 160153](https://github.com/user-attachments/assets/420e2401-0cd6-47f7-ab41-ccf493940263) ![Screenshot 2025-01-28 160443](https://github.com/user-attachments/assets/ab1b7c55-0a23-4dd5-a693-585b78f1991b)
