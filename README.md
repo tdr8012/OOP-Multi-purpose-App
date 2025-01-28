@@ -77,9 +77,10 @@ This feature allows users to:
 This feature allows users to:
 - Validate IPv4 addresses to ensure correct formatting.
 - Display feedback for valid and invalid IP addresses.
+![Screenshot 2025-01-28 160524](https://github.com/user-attachments/assets/c4e6af61-0f96-4baa-88dd-f3c3af47bac1)
+![Screenshot 2025-01-28 160537](https://github.com/user-attachments/assets/2aaa0c40-e875-4fb0-845e-3452d9e2f754)
 
-![IPv4 Validator - Incorrect IP](path-to-ip-validator-incorrect-screenshot)
-![IPv4 Validator - Correct IP](path-to-ip-validator-correct-screenshot)
+
 ---
 
 ### Temperature Converter
@@ -94,9 +95,7 @@ This feature allows users to:
 - Perform basic arithmetic operations (addition, subtraction, multiplication, division).
 - Clear input and exit the calculator.
 
-![Simple Calculator - Initial State](path-to-simple-calculator-initial-screenshot)
-![Simple Calculator - Calculation](path-to-simple-calculator-calculation-screenshot)
-
-
+![Screenshot 2025-01-28 160559](https://github.com/user-attachments/assets/104ef4bf-0629-43f0-a83b-647570391263)
+![Screenshot 2025-01-28 160613](https://github.com/user-attachments/assets/74d0f949-2320-4176-8c3d-34f36f677e45)
 
 
