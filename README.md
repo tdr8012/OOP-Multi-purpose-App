@@ -72,14 +72,15 @@ This feature allows users to:
 - Read and display conversion logs from a text file.
 
 ![Screenshot 2025-01-28 160358](https://github.com/user-attachments/assets/dfde9cdd-38c6-41ee-8745-107fcb41f595)
+
 ---
 ## IPv4 Validator
 This feature allows users to:
 - Validate IPv4 addresses to ensure correct formatting.
 - Display feedback for valid and invalid IP addresses.
-![Screenshot 2025-01-28 160524](https://github.com/user-attachments/assets/c4e6af61-0f96-4baa-88dd-f3c3af47bac1)
-![Screenshot 2025-01-28 160537](https://github.com/user-attachments/assets/2aaa0c40-e875-4fb0-845e-3452d9e2f754)
 
+![Screenshot 2025-01-28 160524](https://github.com/user-attachments/assets/9d26e8f9-116a-4e64-bdf2-e2dd38664f4a)
+![Screenshot 2025-01-28 160537](https://github.com/user-attachments/assets/c9c0d5af-6450-4290-bb0c-4523416fc647)
 
 ---
 
