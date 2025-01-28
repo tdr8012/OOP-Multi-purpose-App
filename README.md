@@ -2,7 +2,7 @@
 
 This is a desktop application developed as part of the **C2_OBJECT ORIENTED PROGRAM** course at LaSalle College, Summer 2023. The application demonstrates core concepts of Object-Oriented Programming (OOP) using C# and Windows Forms.
 
----
+--
 ## Features
 
 ### 1. Lotto Number Generators
