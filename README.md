@@ -87,7 +87,8 @@ This feature allows users to:
 This feature allows users to:
 - Convert temperatures between Celsius and Fahrenheit.
 - Read and display conversion logs from a text file.
-![Screenshot 2025-01-28 160425](https://github.com/user-attachments/assets/552b6bac-fcfc-4b8b-9ea2-468efb781899) ![Screenshot 2025-01-28 160418](https://github.com/user-attachments/assets/e9b5e8d8-21ee-4e54-bcf4-099b820d0028)
+![Screenshot 2025-01-28 160425](https://github.com/user-attachments/assets/552b6bac-fcfc-4b8b-9ea2-468efb781899)
+![Screenshot 2025-01-28 160418](https://github.com/user-attachments/assets/e9b5e8d8-21ee-4e54-bcf4-099b820d0028)
 
 --- 
 ## Simple Calculator
